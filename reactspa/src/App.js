@@ -6,7 +6,7 @@ class App extends React.Component {
         return (
             <div className="App">
                 <h1>React Single Page Application</h1>
-                <div className="containerTable">
+                <div className="container-Table">
                     <Table/>
                 </div>
             </div>
