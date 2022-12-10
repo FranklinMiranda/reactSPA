@@ -29,4 +29,6 @@ class Table extends React.Component {
     }
 }
 
+// Exporting Table Component as the default export
 export default Table
+
