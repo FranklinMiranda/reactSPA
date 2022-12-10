@@ -14,9 +14,7 @@ const TableHeader = () => {
 
 // Simple Functional Component for a Table Body
 const TableBody = () => {
-    return (
-        <tbody></tbody>
-    )
+    return <tbody/>
 }
 
 // React Component for a Table
@@ -30,3 +28,5 @@ class Table extends React.Component {
         )
     }
 }
+
+export default Table
